@@ -2,18 +2,6 @@
 
 A modern web-based Car Rental System that allows users to search, book, and manage car rentals online. Built for ease, speed, and convenience.
 
-## 🔗 Live Demo
-
-[👉 View Live Website](https://your-deployment-link.com)  
-*(Replace this with your actual deployment link)*
-
----
-
-## 📸 Screenshots
-
-*(Add relevant screenshots here)*
-
----
 
 ## 🛠 Features
 
@@ -22,7 +10,6 @@ A modern web-based Car Rental System that allows users to search, book, and mana
 - 📝 View booking details
 - 🧾 Admin dashboard for car & booking management
 - 🔐 User authentication
-- 💳 Payment integration *(optional)*
 - 🌐 Responsive design
 
 ---
